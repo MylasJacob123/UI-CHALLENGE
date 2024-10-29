@@ -13,7 +13,7 @@ The goal of this challenge is to practice front-end development by recreating an
 ## Getting Started
 1. **Fork and Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/ui-challenge.git
+   git clone https://github.com/MylasJacob123/UI-CHALLENGE
    cd ui-challenge
 
 ### 2. Install Dependencies
